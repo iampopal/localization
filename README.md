@@ -8,4 +8,4 @@ A Flutter Localization Project.
 2) Create en.json, fa.json, ps.json files at locales folder
 3) Include the required dependencies at pubspec.yaml file
 3) Include the assets/locales/ folder at pubspec.yaml file 
-4) Copy the code that you need
+4) Copy the code that you need 
